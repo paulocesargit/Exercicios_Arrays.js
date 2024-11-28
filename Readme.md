@@ -7,11 +7,11 @@ Foi pedido para fazer um script que gerencie uma lista de tarefas.
 fiz um array onde adicionei 3 tarefas utilizando o metodo 'push' e removi a ultima tarefa adicioanda ultilizando o metodo 'pop' e exibir o resultado do array no console no final.
 
 ```javascript
-/\*\*
-
-- Gerencia uma lista de tarefas de adicionar e remover itens.
-- @returns {void}
-  \*/
+\**
+*
+*Gerencia uma lista de tarefas de adicionar e remover itens.
+*@returns {void}
+*/
 ```
 
 <p align="center">
