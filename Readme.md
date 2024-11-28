@@ -15,7 +15,7 @@ fiz um array onde adicionei 3 tarefas utilizando o metodo 'push' e removi a ulti
 ```
 
 <p align="center">
-  <img alt="Imagem da atividdade" src="./arrays/img/q1.png" width="100%">
+  <img alt="Imagem da atividdade" src="./img/q1.png" width="100%">
 </p>
 
 ## exercicio 02
@@ -32,7 +32,7 @@ Eu criei uma função chamada gerenciarEstoque que começa com um array chamado 
 ```
 
 <p align="center">
-  <img alt="Imagem da atividdade" src="./arrays/img/q2.png" width="100%">
+  <img alt="Imagem da atividdade" src="./img/q2.png" width="100%">
 </p>
 
 ## exercicio 03
@@ -52,7 +52,7 @@ Fiz uma funçao que calcula e exibe a média das notas de três alunos sendo ele
 ```
 
 <p align="center">
-  <img alt="Imagem da atividdade" src="./arrays/img/q3.png" width="100%">
+  <img alt="Imagem da atividdade" src="./img/q3.png" width="100%">
 </p>
 
 # exercicio 04
@@ -70,7 +70,7 @@ Eu criei a funçao exibirPalavrasReverso, que recebe um array de palavras como p
 ```
 
 <p align="center">
-  <img alt="Imagem da atividdade" src="./arrays/img/q4.png" width="100%">
+  <img alt="Imagem da atividdade" src="./img/q4.png" width="100%">
 </p>
 
 # exercicio 05
@@ -89,5 +89,5 @@ Eu criei a funçao jogoAdivinhacao, que gera um número aleatório entre 1 e 10 
 ```
 
 <p align="center">
-  <img alt="Imagem da atividdade" src="./arrays/img/q5.png" width="100%">
+  <img alt="Imagem da atividdade" src="./img/q5.png" width="100%">
 </p>
